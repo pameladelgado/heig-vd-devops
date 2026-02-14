@@ -13,7 +13,8 @@ const config: Config = {
 
   organizationName: 'pameladelgado',
   projectName: 'heig-vd-devops',
-
+  trailingSlash: false,
+  
   i18n: {
     defaultLocale: "fr",
     locales: ["fr"],
