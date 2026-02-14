@@ -8,13 +8,12 @@ const config: Config = {
   tagline: "Cours de DevOps à la HEIG-VD",
   favicon: "img/favicon.ico",
 
-  url: "https://pameladelgado.github.io/heig-vd-devops/",
-  baseUrl: "/",
-
+  url: "https://pameladelgado.github.io/",
+  baseUrl: "/heig-vd-devops/",
   organizationName: 'pameladelgado',
   projectName: 'heig-vd-devops',
   trailingSlash: false,
-  
+
   i18n: {
     defaultLocale: "fr",
     locales: ["fr"],
